@@ -21,7 +21,7 @@ http.createServer((requisicao, resposta) => {
 }).listen(1337);
 
 /*
-    🧠 COMO USAR ESSE SERVIDOR PASSO A PASSO:
+    COMO USAR ESSE SERVIDOR PASSO A PASSO:
 
     Salve o arquivo com a extensão .js  
         - Exemplo: servidor.js
